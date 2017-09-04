@@ -1,0 +1,7 @@
+{
+  "extends": "./.stylelintrc",
+  "processors": ["stylelint-processor-html"],
+  "rules": {
+    "selector-max-type": 0
+  }
+}
